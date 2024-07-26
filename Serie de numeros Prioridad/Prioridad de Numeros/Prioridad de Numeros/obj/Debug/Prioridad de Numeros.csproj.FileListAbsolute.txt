@@ -1,0 +1,7 @@
+C:\Users\caleb\source\repos\Progra1-2024-semi\Serie de Numeros\Serie de numeros Prioridad\Prioridad de Numeros\Prioridad de Numeros\bin\Debug\Prioridad de Numeros.exe.config
+C:\Users\caleb\source\repos\Progra1-2024-semi\Serie de Numeros\Serie de numeros Prioridad\Prioridad de Numeros\Prioridad de Numeros\bin\Debug\Prioridad de Numeros.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Serie de Numeros\Serie de numeros Prioridad\Prioridad de Numeros\Prioridad de Numeros\bin\Debug\Prioridad de Numeros.pdb
+C:\Users\caleb\source\repos\Progra1-2024-semi\Serie de Numeros\Serie de numeros Prioridad\Prioridad de Numeros\Prioridad de Numeros\obj\Debug\Prioridad de Numeros.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Serie de Numeros\Serie de numeros Prioridad\Prioridad de Numeros\Prioridad de Numeros\obj\Debug\Prioridad de Numeros.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Serie de Numeros\Serie de numeros Prioridad\Prioridad de Numeros\Prioridad de Numeros\obj\Debug\Prioridad de Numeros.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Serie de Numeros\Serie de numeros Prioridad\Prioridad de Numeros\Prioridad de Numeros\obj\Debug\Prioridad de Numeros.pdb
