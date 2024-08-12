@@ -1,0 +1,7 @@
+C:\Users\caleb\source\repos\Progra1-2024-semi\Tipo de Datos en C#\Tipo de Datos en C#\Tipos de datos\bin\Debug\Tipos de datos.exe.config
+C:\Users\caleb\source\repos\Progra1-2024-semi\Tipo de Datos en C#\Tipo de Datos en C#\Tipos de datos\bin\Debug\Tipos de datos.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Tipo de Datos en C#\Tipo de Datos en C#\Tipos de datos\bin\Debug\Tipos de datos.pdb
+C:\Users\caleb\source\repos\Progra1-2024-semi\Tipo de Datos en C#\Tipo de Datos en C#\Tipos de datos\obj\Debug\Tipos de datos.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Tipo de Datos en C#\Tipo de Datos en C#\Tipos de datos\obj\Debug\Tipos de datos.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Tipo de Datos en C#\Tipo de Datos en C#\Tipos de datos\obj\Debug\Tipos de datos.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Tipo de Datos en C#\Tipo de Datos en C#\Tipos de datos\obj\Debug\Tipos de datos.pdb
