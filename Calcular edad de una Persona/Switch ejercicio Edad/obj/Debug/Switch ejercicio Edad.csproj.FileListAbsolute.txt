@@ -1,0 +1,7 @@
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular la edad de una persona\Calcular edad de una Persona\Switch ejercicio Edad\obj\Debug\Switch ejercicio Edad.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular la edad de una persona\Calcular edad de una Persona\Switch ejercicio Edad\obj\Debug\Switch ejercicio Edad.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular la edad de una persona\Calcular edad de una Persona\Switch ejercicio Edad\bin\Debug\Switch ejercicio Edad.exe.config
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular la edad de una persona\Calcular edad de una Persona\Switch ejercicio Edad\bin\Debug\Switch ejercicio Edad.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular la edad de una persona\Calcular edad de una Persona\Switch ejercicio Edad\bin\Debug\Switch ejercicio Edad.pdb
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular la edad de una persona\Calcular edad de una Persona\Switch ejercicio Edad\obj\Debug\Switch ejercicio Edad.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular la edad de una persona\Calcular edad de una Persona\Switch ejercicio Edad\obj\Debug\Switch ejercicio Edad.pdb
