@@ -1,0 +1,7 @@
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular Notas de Computo\Calcular Notas computo\Notas de Computo\bin\Debug\Notas de Computo.exe.config
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular Notas de Computo\Calcular Notas computo\Notas de Computo\bin\Debug\Notas de Computo.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular Notas de Computo\Calcular Notas computo\Notas de Computo\bin\Debug\Notas de Computo.pdb
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular Notas de Computo\Calcular Notas computo\Notas de Computo\obj\Debug\Notas de Computo.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular Notas de Computo\Calcular Notas computo\Notas de Computo\obj\Debug\Notas de Computo.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular Notas de Computo\Calcular Notas computo\Notas de Computo\obj\Debug\Notas de Computo.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Calcular Notas de Computo\Calcular Notas computo\Notas de Computo\obj\Debug\Notas de Computo.pdb
