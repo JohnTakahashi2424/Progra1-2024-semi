@@ -1,0 +1,7 @@
+C:\Users\caleb\source\repos\Secuencia Fibonacii II\Secuencia Fibonacci\Secuencia Fibonacii\bin\Debug\Secuencia Fibonacii.exe.config
+C:\Users\caleb\source\repos\Secuencia Fibonacii II\Secuencia Fibonacci\Secuencia Fibonacii\bin\Debug\Secuencia Fibonacii.exe
+C:\Users\caleb\source\repos\Secuencia Fibonacii II\Secuencia Fibonacci\Secuencia Fibonacii\bin\Debug\Secuencia Fibonacii.pdb
+C:\Users\caleb\source\repos\Secuencia Fibonacii II\Secuencia Fibonacci\Secuencia Fibonacii\obj\Debug\Secuencia Fibonacii.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Secuencia Fibonacii II\Secuencia Fibonacci\Secuencia Fibonacii\obj\Debug\Secuencia Fibonacii.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Secuencia Fibonacii II\Secuencia Fibonacci\Secuencia Fibonacii\obj\Debug\Secuencia Fibonacii.exe
+C:\Users\caleb\source\repos\Secuencia Fibonacii II\Secuencia Fibonacci\Secuencia Fibonacii\obj\Debug\Secuencia Fibonacii.pdb
