@@ -1,0 +1,7 @@
+C:\Users\caleb\source\repos\Progra1-2024-semi\Lab2 Conversor\LabII Conversor\Conversor Lab2\bin\Debug\Conversor Lab2.exe.config
+C:\Users\caleb\source\repos\Progra1-2024-semi\Lab2 Conversor\LabII Conversor\Conversor Lab2\bin\Debug\Conversor Lab2.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Lab2 Conversor\LabII Conversor\Conversor Lab2\bin\Debug\Conversor Lab2.pdb
+C:\Users\caleb\source\repos\Progra1-2024-semi\Lab2 Conversor\LabII Conversor\Conversor Lab2\obj\Debug\Conversor Lab2.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Lab2 Conversor\LabII Conversor\Conversor Lab2\obj\Debug\Conversor Lab2.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Lab2 Conversor\LabII Conversor\Conversor Lab2\obj\Debug\Conversor Lab2.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Lab2 Conversor\LabII Conversor\Conversor Lab2\obj\Debug\Conversor Lab2.pdb
