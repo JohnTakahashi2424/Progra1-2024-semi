@@ -1,0 +1,7 @@
+C:\Users\caleb\source\repos\Progra1-2024-semi\Impuesto a las Actividades Economicas\Impuesto Economico\Impuesto a las Actividades\bin\Debug\Impuesto a las Actividades.exe.config
+C:\Users\caleb\source\repos\Progra1-2024-semi\Impuesto a las Actividades Economicas\Impuesto Economico\Impuesto a las Actividades\bin\Debug\Impuesto a las Actividades.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Impuesto a las Actividades Economicas\Impuesto Economico\Impuesto a las Actividades\bin\Debug\Impuesto a las Actividades.pdb
+C:\Users\caleb\source\repos\Progra1-2024-semi\Impuesto a las Actividades Economicas\Impuesto Economico\Impuesto a las Actividades\obj\Debug\Impuesto a las Actividades.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Impuesto a las Actividades Economicas\Impuesto Economico\Impuesto a las Actividades\obj\Debug\Impuesto a las Actividades.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Progra1-2024-semi\Impuesto a las Actividades Economicas\Impuesto Economico\Impuesto a las Actividades\obj\Debug\Impuesto a las Actividades.exe
+C:\Users\caleb\source\repos\Progra1-2024-semi\Impuesto a las Actividades Economicas\Impuesto Economico\Impuesto a las Actividades\obj\Debug\Impuesto a las Actividades.pdb
