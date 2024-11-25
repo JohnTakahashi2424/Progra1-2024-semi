@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\conversore_utilizando_poo\conversore_utilizando_poo\bin\Debug\conversore_utilizando_poo.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\conversore_utilizando_poo\conversore_utilizando_poo\bin\Debug\conversore_utilizando_poo.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\conversore_utilizando_poo\conversore_utilizando_poo\bin\Debug\conversore_utilizando_poo.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\conversore_utilizando_poo\conversore_utilizando_poo\obj\Debug\conversore_utilizando_poo.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\conversore_utilizando_poo\conversore_utilizando_poo\obj\Debug\conversore_utilizando_poo.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\conversore_utilizando_poo\conversore_utilizando_poo\obj\Debug\conversore_utilizando_poo.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\conversore_utilizando_poo\conversore_utilizando_poo\obj\Debug\conversore_utilizando_poo.pdb
