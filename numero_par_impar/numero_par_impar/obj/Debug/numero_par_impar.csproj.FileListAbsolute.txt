@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_par_impar\numero_par_impar\bin\Debug\numero_par_impar.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_par_impar\numero_par_impar\bin\Debug\numero_par_impar.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_par_impar\numero_par_impar\bin\Debug\numero_par_impar.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_par_impar\numero_par_impar\obj\Debug\numero_par_impar.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_par_impar\numero_par_impar\obj\Debug\numero_par_impar.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_par_impar\numero_par_impar\obj\Debug\numero_par_impar.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_par_impar\numero_par_impar\obj\Debug\numero_par_impar.csproj.AssemblyReference.cache
