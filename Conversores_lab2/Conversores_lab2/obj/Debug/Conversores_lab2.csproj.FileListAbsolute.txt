@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Conversores_lab2\Conversores_lab2\bin\Debug\Conversores_lab2.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Conversores_lab2\Conversores_lab2\bin\Debug\Conversores_lab2.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Conversores_lab2\Conversores_lab2\bin\Debug\Conversores_lab2.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Conversores_lab2\Conversores_lab2\obj\Debug\Conversores_lab2.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Conversores_lab2\Conversores_lab2\obj\Debug\Conversores_lab2.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Conversores_lab2\Conversores_lab2\obj\Debug\Conversores_lab2.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Conversores_lab2\Conversores_lab2\obj\Debug\Conversores_lab2.pdb
