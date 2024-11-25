@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\if-extendido-y-ciclo-mientras\if-extendido-y-ciclo-mientras\bin\Debug\if-extendido-y-ciclo-mientras.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\if-extendido-y-ciclo-mientras\if-extendido-y-ciclo-mientras\bin\Debug\if-extendido-y-ciclo-mientras.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\if-extendido-y-ciclo-mientras\if-extendido-y-ciclo-mientras\bin\Debug\if-extendido-y-ciclo-mientras.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\if-extendido-y-ciclo-mientras\if-extendido-y-ciclo-mientras\obj\Debug\if-extendido-y-ciclo-mientras.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\if-extendido-y-ciclo-mientras\if-extendido-y-ciclo-mientras\obj\Debug\if-extendido-y-ciclo-mientras.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\if-extendido-y-ciclo-mientras\if-extendido-y-ciclo-mientras\obj\Debug\if-extendido-y-ciclo-mientras.pdb
