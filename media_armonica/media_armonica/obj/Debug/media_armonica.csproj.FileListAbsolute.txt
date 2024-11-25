@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_armonica\media_armonica\bin\Debug\media_armonica.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_armonica\media_armonica\bin\Debug\media_armonica.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_armonica\media_armonica\bin\Debug\media_armonica.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_armonica\media_armonica\obj\Debug\media_armonica.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_armonica\media_armonica\obj\Debug\media_armonica.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_armonica\media_armonica\obj\Debug\media_armonica.pdb
