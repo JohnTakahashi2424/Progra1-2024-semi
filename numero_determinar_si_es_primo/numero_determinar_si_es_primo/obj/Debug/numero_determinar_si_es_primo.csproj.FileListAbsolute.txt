@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_determinar_si_es_primo\numero_determinar_si_es_primo\bin\Debug\numero_determinar_si_es_primo.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_determinar_si_es_primo\numero_determinar_si_es_primo\bin\Debug\numero_determinar_si_es_primo.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_determinar_si_es_primo\numero_determinar_si_es_primo\bin\Debug\numero_determinar_si_es_primo.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_determinar_si_es_primo\numero_determinar_si_es_primo\obj\Debug\numero_determinar_si_es_primo.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_determinar_si_es_primo\numero_determinar_si_es_primo\obj\Debug\numero_determinar_si_es_primo.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\numero_determinar_si_es_primo\numero_determinar_si_es_primo\obj\Debug\numero_determinar_si_es_primo.pdb
