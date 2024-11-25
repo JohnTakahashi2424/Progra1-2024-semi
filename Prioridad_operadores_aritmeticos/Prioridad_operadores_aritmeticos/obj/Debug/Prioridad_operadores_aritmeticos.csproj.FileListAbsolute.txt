@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Prioridad_operadores_aritmeticos\Prioridad_operadores_aritmeticos\bin\Debug\Prioridad_operadores_aritmeticos.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Prioridad_operadores_aritmeticos\Prioridad_operadores_aritmeticos\bin\Debug\Prioridad_operadores_aritmeticos.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Prioridad_operadores_aritmeticos\Prioridad_operadores_aritmeticos\bin\Debug\Prioridad_operadores_aritmeticos.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Prioridad_operadores_aritmeticos\Prioridad_operadores_aritmeticos\obj\Debug\Prioridad_operadores_aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Prioridad_operadores_aritmeticos\Prioridad_operadores_aritmeticos\obj\Debug\Prioridad_operadores_aritmeticos.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\Prioridad_operadores_aritmeticos\Prioridad_operadores_aritmeticos\obj\Debug\Prioridad_operadores_aritmeticos.pdb
