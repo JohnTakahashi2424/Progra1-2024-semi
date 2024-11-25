@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_aritmetica_datos_de_usuario\media_aritmetica_datos_de_usuario\bin\Debug\media_aritmetica_datos_de_usuario.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_aritmetica_datos_de_usuario\media_aritmetica_datos_de_usuario\bin\Debug\media_aritmetica_datos_de_usuario.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_aritmetica_datos_de_usuario\media_aritmetica_datos_de_usuario\bin\Debug\media_aritmetica_datos_de_usuario.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_aritmetica_datos_de_usuario\media_aritmetica_datos_de_usuario\obj\Debug\media_aritmetica_datos_de_usuario.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_aritmetica_datos_de_usuario\media_aritmetica_datos_de_usuario\obj\Debug\media_aritmetica_datos_de_usuario.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\media_aritmetica_datos_de_usuario\media_aritmetica_datos_de_usuario\obj\Debug\media_aritmetica_datos_de_usuario.pdb
