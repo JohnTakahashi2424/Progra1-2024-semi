@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\nota_final_de_computo_1_2_tarea\nota_final_de_computo_1_2_tarea\bin\Debug\nota_final_de_computo_1_2_tarea.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\nota_final_de_computo_1_2_tarea\nota_final_de_computo_1_2_tarea\bin\Debug\nota_final_de_computo_1_2_tarea.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\nota_final_de_computo_1_2_tarea\nota_final_de_computo_1_2_tarea\bin\Debug\nota_final_de_computo_1_2_tarea.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\nota_final_de_computo_1_2_tarea\nota_final_de_computo_1_2_tarea\obj\Debug\nota_final_de_computo_1_2_tarea.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\nota_final_de_computo_1_2_tarea\nota_final_de_computo_1_2_tarea\obj\Debug\nota_final_de_computo_1_2_tarea.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\nota_final_de_computo_1_2_tarea\nota_final_de_computo_1_2_tarea\obj\Debug\nota_final_de_computo_1_2_tarea.pdb

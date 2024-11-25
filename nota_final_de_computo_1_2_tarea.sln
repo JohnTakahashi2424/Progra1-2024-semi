@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nota_final_de_computo_1_2_tarea", "nota_final_de_computo_1_2_tarea\nota_final_de_computo_1_2_tarea.csproj", "{37B44939-4A0E-4A50-8F1F-63BF20DDAFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B44939-4A0E-4A50-8F1F-63BF20DDAFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B44939-4A0E-4A50-8F1F-63BF20DDAFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B44939-4A0E-4A50-8F1F-63BF20DDAFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B44939-4A0E-4A50-8F1F-63BF20DDAFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE1AC3A5-CC6B-4580-889A-0D9AD1C8AEB5}
+	EndGlobalSection
+EndGlobal
